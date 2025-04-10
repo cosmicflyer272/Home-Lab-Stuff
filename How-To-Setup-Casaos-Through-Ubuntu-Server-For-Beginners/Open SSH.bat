@@ -3,4 +3,4 @@ cls
 title SSH Client
 color f
 cls
-ssh UserName@IPAddress
+ssh bob@192.168.0.195
